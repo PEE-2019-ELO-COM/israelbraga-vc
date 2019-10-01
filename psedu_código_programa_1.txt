@@ -1,0 +1,19 @@
+início
+var ve1
+var ve2
+var vc
+
+
+escreva("nota ve1")
+leia(nota da VE1)
+escreva("nota ve2")
+leia(nota de VE2)
+escreva("nota VC")
+leia(nota de vc)
+
+se(ve1+ve2+2*vc)/4 >= 6):
+	escreva("você precisa de 4 na VF)
+caso contrário:
+	escreva("você precisa de {10-ve1+ve2+2*vc)/4}")
+
+fim

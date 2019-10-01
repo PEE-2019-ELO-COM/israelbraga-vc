@@ -1,0 +1,12 @@
+PRINT(INSIRA NUMERO)
+LEIA(NUMERO)
+
+>>NUMERO&1
+>>2NUMERO&1
+.
+.
+.
+
+fUNÇÕES DE CARNOT (A,B,C,D)
+
+RETORNA a,b,c,d,e,f,g
